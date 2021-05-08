@@ -7,7 +7,7 @@ https://kevin-dsvendas.netlify.app/
 
 DS Vendas é uma aplicação full stack web construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em um dashboard o qual apresenta dados referentes à vendas realizadas em uma tabelas, além dos totais de vendas por vendedor em gráfico de Rosca e taxa de sucesso em um gráfico de barras.
+A aplicação consiste em um dashboard o qual apresenta dados referentes a vendas realizadas. Nela é apresentada uma tabela que exibe de maneira paginada o desempenho das vendas de cada vendedor, a aplicação apresenta ainda um gráfico de barras com a taxa de sucesso por vendedor e um gráfico de rosca com a porcentagem individual de vendas.
 
 ## Layout web
 ![Web 1](https://raw.githubusercontent.com/RangelMoreira/projeto-sds3/main/assets/paginaInicial.png)

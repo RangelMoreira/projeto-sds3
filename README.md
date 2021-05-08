@@ -50,14 +50,14 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-## Front end web
+## Front end
 Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
 git clone https://github.com/RangelMoreira/projeto-sds3/tree/main/frontend
 
-# entrar na pasta do projeto frontend
+# entrar na pasta do projeto front end
 cd frontend
 
 # instalar dependências
